@@ -25,11 +25,36 @@ if __name__ == "__main__":
 
 #Questions:
 #"In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
+if question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?"
+    answer = ""
 #"Are encoding and encryption the same? - Yes/No":
+if question == "Are encoding and encryption the same? - Yes/No":
+    answer = ""
+    
 #"Is it possible to decrypt a message without a key? - Yes/No":
+if question == "Is it possible to decrypt a message without a key? - Yes/No":
+   answer = ""
+    
 #"Is it possible to decode a message without a key? - Yes/No":
+ if question == "Is it possible to decode a message without a key? - Yes/No":  
+     answer = ""
+     
 #"Is a hashed message supposed to be un-hashed? - Yes/No":
+ if quesiton == "Is a hashed message supposed to be un-hashed? - Yes/No":
+    answer = "" 
+
 #"What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
+ if question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
+     answer = ""
+    
 #"Is MD5 a secured hashing algorithm? - Yes/No":
+  if question == "Is MD5 a secured hashing algorithm? - Yes/No":
+      answer = ""
+    
 #"What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
+ if question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
+    answer = ""
+
 #"What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
+ if question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
+    answer = ""
