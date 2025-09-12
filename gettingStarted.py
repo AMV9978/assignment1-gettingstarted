@@ -26,35 +26,36 @@ if __name__ == "__main__":
 #Questions:
 #"In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
 if question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?"
-    answer = ""
+    answer = "pcap"
 #"Are encoding and encryption the same? - Yes/No":
 if question == "Are encoding and encryption the same? - Yes/No":
-    answer = ""
+    answer = "No"
     
 #"Is it possible to decrypt a message without a key? - Yes/No":
 if question == "Is it possible to decrypt a message without a key? - Yes/No":
-   answer = ""
+   answer = "No"
     
 #"Is it possible to decode a message without a key? - Yes/No":
  if question == "Is it possible to decode a message without a key? - Yes/No":  
-     answer = ""
+     answer = "Yes"
      
 #"Is a hashed message supposed to be un-hashed? - Yes/No":
  if quesiton == "Is a hashed message supposed to be un-hashed? - Yes/No":
-    answer = "" 
+    answer = "No" 
 
 #"What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
  if question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
-     answer = ""
+     answer = "1f2ed969e2a8c807039d9cf76c7b3f6defbe3ec064339f39a9f2ac372aac4dcd"
     
 #"Is MD5 a secured hashing algorithm? - Yes/No":
   if question == "Is MD5 a secured hashing algorithm? - Yes/No":
-      answer = ""
+      answer = "No"
     
 #"What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
  if question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
-    answer = ""
+    answer = "4"
 
 #"What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
  if question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
-    answer = ""
+    answer = "2"
+
